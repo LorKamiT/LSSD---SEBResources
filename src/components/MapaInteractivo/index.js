@@ -2,7 +2,7 @@ import React, { useRef, useEffect, useState } from "react";
 import L from "leaflet";
 import ReactDOMServer from "react-dom/server";
 import "leaflet/dist/leaflet.css";
-import "./MapaInteractivo.css";
+import "./CSSOriginalPorSiAcaso.css";
 
 import { MdGppGood } from "react-icons/md";
 import { FaArrowAltCircleRight, FaArrowAltCircleUp } from "react-icons/fa";
