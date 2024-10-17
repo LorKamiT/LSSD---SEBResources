@@ -271,7 +271,7 @@ const MapaInteractivo = () => {
       <div className="DisclaimerPagina">
         <div className="DisclaimerPaginaNav">
           <div className="DiscialmerPaginaNavTexto">
-            <p>San Andreas Fire Marshall - Mapa de riesgos</p>
+            <p>Sheriff Enforcement Bureau - Mapa de Operaciones</p>
           </div>
           <div className="DiscialmerPaginaNavImagen">
             <img src={LogoSAFDfiremarshal} alt="SAFD Marshall VibesRP" />
